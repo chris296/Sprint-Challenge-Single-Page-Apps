@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: One benefit is that you use less network requests since it doesn't have to reload the whole page when you generate a new component. Another benefit is that there is a smoother transition between pages and animations since you are avoiding reloading the whole page.
 
 ## Project Set Up
 
